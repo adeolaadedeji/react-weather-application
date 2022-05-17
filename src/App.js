@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="Lagos" />
         <footer>
           This project was created by{" "}
           <a href="http://localhost:3000/" target="_blank" rel="noreferrer">
