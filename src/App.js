@@ -10,14 +10,18 @@ export default function App() {
         <Weather defaultCity="Lagos" />
         <footer>
           This project was created by{" "}
-          <a href="http://localhost:3000/" target="_blank" rel="noreferrer">
+          <a
+            href="http://localhost:3000/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Adeola Adedeji
           </a>{" "}
           and is{" "}
           <a
             href="https://github.com/adeolaadedeji/react-weather-application"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
