@@ -25,6 +25,14 @@ export default function App() {
           >
             open-sourced on GitHub
           </a>
+          {""} and {""}
+          <a
+            href="https://adorable-valkyrie-2c6c6e.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on netlify
+          </a>
         </footer>
       </div>
     </div>
